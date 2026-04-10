@@ -44,13 +44,13 @@ This workflow reduces iteration cycles and speeds up concept-to-prototype timeli
 ## 📦 Technical Specifications
 
 ### Supported Export Formats
-Meshy ensures seamless integration into professional pipelines by supporting industry-standard formats[cite: 32, 106]:
+Meshy ensures seamless integration into professional pipelines by supporting industry-standard formats:
 * **For Gaming & AR/VR**: `.GLB`, `.FBX`, `.OBJ` (including UV maps).
-* **For 3D Printing**: `.STL`, `.3MF` (optimized manifold geometry for slicers like Bambu Studio and Cura)[cite: 62, 133].
+* **For 3D Printing**: `.STL`, `.3MF` (optimized manifold geometry for slicers like Bambu Studio and Cura).
 
 
 ### Developer & API Integration
-Built for automation and enterprise scale[cite: 73, 144]:
+Built for automation and enterprise scale:
 * **REST API**: Fully documented asynchronous endpoints for high-volume 3D asset generation.
 * **Official SDKs**: Streamlined integration for Python and Node.js environments.
 * **Documentation**: Access full technical guides at [developer.meshy.ai](https://www.meshy.ai/).
