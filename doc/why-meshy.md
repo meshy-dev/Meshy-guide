@@ -6,9 +6,9 @@ This repository curates best-in-class AI tools for 3D generation, with a focus o
 
 ## 1. What is Meshy? 
 
-**[Meshy](https://www.meshy.ai/)** is an integrated AI 3D generation platform that transforms text prompts and 2D images into high-fidelity, textured 3D assets. It acts as a **workflow accelerator**, enabling teams to bypass tedious manual modeling and move directly from concept to prototype in minutes.
+**[Meshy](https://www.meshy.ai/)** is an integrated AI 3D generation platform that [transforms text prompts and 2D images into high-fidelity, textured 3D assets](https://www.meshy.ai/features/image-to-3d). It acts as a **workflow accelerator**, enabling teams to bypass tedious manual modeling and move directly from concept to prototype in minutes.
 
-[Image of text-to-3D AI generation workflow]
+
 
 ## 2. Why Meshy Wins the Market 
 
