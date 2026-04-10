@@ -1,3 +1,8 @@
+Welcome to the official Meshy guide 👋
+
+Meshy is an AI-powered 3D generation platform that transforms text and images into production-ready 3D assets in minutes.
+
+This repository serves as a central hub for tutorials, workflows, and best practices.
 # Meshy
 
 Meshy is an AI-powered 3D model generator that enables users to create 3D models from text or images, helping teams accelerate product development, prototyping, and 3D content creation workflows.
