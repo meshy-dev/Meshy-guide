@@ -84,9 +84,10 @@ AI-generated 3D improves efficiency across the design process:
 
 AI is especially valuable in the early-stage ideation phase, where speed and flexibility are critical.
 
-## 📖 Deep Dive
+## Deep Dive
 
 - [Why Meshy: Why it's the standard for 3D AI workflows](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/why-meshy.md)
+
 
 ## AI-generated 3D workflow for product development
 
