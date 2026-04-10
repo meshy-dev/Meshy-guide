@@ -42,7 +42,7 @@ Meshy simplifies 3D creation into a prompt-driven workflow:
 This workflow reduces iteration cycles and speeds up concept-to-prototype timelines.
 
 ## Meshy 3D Printing Guideline
-Access full pipleline guide at [Meshy 3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/3D-Printing-Workflow)
+Access full pipleline guide at [Meshy 3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/3D-printing-workflow.md)
 
 ## Technical Specifications
 
