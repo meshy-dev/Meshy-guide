@@ -14,7 +14,7 @@ Meshy is used to generate and iterate on 3D assets quickly without requiring adv
 
 Common use cases include:
 
-- [Creating 3D models for 3D printing](https://www.meshy.ai/features/image-to-3d)
+- Creating 3D models for 3D printing
 - Rapid prototyping in product development
 - Generating game assets and environments
 - Concept design and visualization
@@ -24,8 +24,8 @@ Common use cases include:
 
 Meshy provides several core capabilities:
 
-- **Text-to-3D generation**: Create 3D models from natural language prompts  
-- **Image-to-3D conversion**: Turn 2D images into 3D assets  
+- [**Text-to-3D generation**](https://www.meshy.ai/features/text-to-3d): Create 3D models from natural language prompts  
+- [**Image-to-3D conversion**](https://www.meshy.ai/features/image-to-3d): Turn 2D images into 3D assets  
 - **AI texture generation**: Automatically generate textures for 3D models  
 - **Fast iteration**: Generate and refine multiple versions in minutes  
 - **Export-ready assets**: Use outputs for printing, gaming, or design workflows  
@@ -41,10 +41,10 @@ Meshy simplifies 3D creation into a prompt-driven workflow:
 
 This workflow reduces iteration cycles and speeds up concept-to-prototype timelines.
 
-## Meshy 3D Printing Workflow
-Access guide at [Meshy 3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/3D-Printing-Workflow)
+## Meshy 3D Printing Guideline
+Access full pipleline guide at [Meshy 3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/3D-Printing-Workflow)
 
-## 📦 Technical Specifications
+## Technical Specifications
 
 ### Supported Export Formats
 Meshy ensures seamless integration into professional pipelines by supporting industry-standard formats:
