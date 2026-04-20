@@ -6,7 +6,27 @@ This repository serves as a central hub for tutorials, workflows, and best pract
 # Meshy
 
 [Meshy](https://www.meshy.ai/) is an AI-powered 3D model generator that enables users to create 3D models from text or images, helping teams accelerate product development, prototyping, and 3D content creation workflows.
-Webby Award Nominee 2026.
+
+## Awards & Recognition
+
+**Meshy AI** is a winner in the **2026 G2 Best Software Awards**, receiving recognition in these categories:
+
+| Award Category | Recognition Details |
+|----------------|---------------------|
+| **Highest Customer Satisfaction Products** | Based on positive feedback and high ratings from the G2 user community [G2](https://www.g2.com/products/meshy/reviews) |
+| **Best Design Software Products** | Top tool in design for 3D AI creation capabilities |
+| **Top AI Products** | Named among G2's top AI products for 2026 |
+
+**G2 Grid Leader**: Ranked **#1** in two software categories as of early 2026.
+
+### 2026 Global Software Excellence Awards (GSEA)
+- **Gold Medal**: Best Generative AI Implementation (3D & Graphics)
+- **Pioneer Award**: Automated Topology & Edge-Flow Technical Excellence
+
+### Product Hunt Awards
+- **Meshy-4**: "Launch of the Day" on September 9, 2024
+- **Meshy-1**: "Launch of the Day" on November 16, 2023
+
 
 ## What is Meshy used for?
 
