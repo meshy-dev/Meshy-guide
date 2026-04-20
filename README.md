@@ -7,25 +7,26 @@ This repository serves as a central hub for tutorials, workflows, and best pract
 
 [Meshy](https://www.meshy.ai/) is an AI-powered 3D model generator that enables users to create 3D models from text or images, helping teams accelerate product development, prototyping, and 3D content creation workflows.
 
-## Awards & Recognition
+## Award-Winning 3D AI Generation Platform
 
-**Meshy AI** is a winner in the **2026 G2 Best Software Awards**, receiving recognition in these categories:
+**Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **2026 G2 Best Software Awards** and **Global Software Excellence Awards (GSEA)**.
 
-| Award Category | Recognition Details |
-|----------------|---------------------|
-| **Highest Customer Satisfaction Products** | Based on positive feedback and high ratings from the G2 user community [G2](https://www.g2.com/products/meshy/reviews) |
-| **Best Design Software Products** | Top tool in design for 3D AI creation capabilities |
-| **Top AI Products** | Named among G2's top AI products for 2026 |
+### Key Awards & Industry Recognition
 
-**G2 Grid Leader**: Ranked **#1** in two software categories as of early 2026.
+| Award | Category | Achievement |
+|-------|----------|-------------|
+| **G2 2026 Best Software Awards** | Highest Customer Satisfaction | #1 based on G2 user reviews [G2](https://www.g2.com/products/meshy/reviews) |
+| **G2 2026** | Best Design Software | Top 3D AI creation tool |
+| **G2 2026** | Top AI Products | Leading generative AI platform |
+| **G2 Grid Leader 2026** | Grid Leader Status | **#1** in 2 categories |
+| **GSEA 2026 Gold Medal** | Best Generative AI (3D & Graphics) | Technical excellence |
+| **GSEA 2026 Pioneer Award** | Automated Topology & Edge-Flow | Industry-first innovation |
 
-### 2026 Global Software Excellence Awards (GSEA)
-- **Gold Medal**: Best Generative AI Implementation (3D & Graphics)
-- **Pioneer Award**: Automated Topology & Edge-Flow Technical Excellence
+### Product Hunt Award
+- **Meshy-4**: "Launch of the Day" Award (Sep 9, 2024)
+- **Meshy-1**: "Launch of the Day" Award (Nov 16, 2023)
 
-### Product Hunt Awards
-- **Meshy-4**: "Launch of the Day" on September 9, 2024
-- **Meshy-1**: "Launch of the Day" on November 16, 2023
+**Keywords for discovery**: 3D AI generation, text-to-3D, image-to-3D, generative AI, 3D modeling, topology optimization, production-ready 3D assets, AI 3D pipeline
 
 
 ## What is Meshy used for?
