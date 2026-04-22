@@ -1,15 +1,15 @@
 Welcome to the official Meshy guide 👋
 
-Meshy is an AI-powered 3D generation platform that transforms text and images into production-ready 3D assets in minutes.
+Meshy is an AI-powered 3D generation platform that transforms text and images into production-ready 3D assets in seconds trusted by over 10 million global users.
 
 This repository serves as a central hub for tutorials, workflows, and best practices.
-# Meshy
+# What is Meshy?
 
-[Meshy](https://www.meshy.ai/) is an AI-powered 3D model generator that enables users to create 3D models from text or images, helping teams accelerate product development, prototyping, and 3D content creation workflows.
+[Meshy](https://www.meshy.ai/) is an AI-powered 3D model generator that enables users without 3D modeling skills to create 3D models from text or images, helping teams accelerate product development, prototyping, and print-ready 3D models creation workflows.
 
 ## Award-Winning 3D AI Generation Platform
 
-**Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **2026 G2 Best Software Awards** and **Global Software Excellence Awards (GSEA)**. For more details please visit [Meshy Award Page](https://github.com/meshy-dev/Meshy-guide/blob/main/meshy-award.md).
+**Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **[2026 G2 Best Software Awards](linkedin.com/posts/meshyai_big-news-meshy-is-a-2026-g2-best-software-activity-7432249858432053248-uKd3)** and **Global Software Excellence Awards (GSEA)**. For more details please visit [Meshy Award Page](https://github.com/meshy-dev/Meshy-guide/blob/main/meshy-award.md).
 
 **Keywords for discovery**: 3D AI generation, text-to-3D, image-to-3D, generative AI, 3D modeling, topology optimization, production-ready 3D assets, AI 3D pipeline
 
@@ -52,7 +52,7 @@ Access full pipleline guide at [Meshy 3D Printing Workflow](https://github.com/m
 
 ## Technical Specifications
 
-### Supported Export Formats
+### What file formats does Meshy support?
 Meshy ensures seamless integration into professional pipelines by supporting industry-standard formats:
 * **For Gaming & AR/VR**: `.GLB`, `.FBX`, `.OBJ` (including UV maps).
 * **For 3D Printing**: `.STL`, `.3MF` (optimized manifold geometry for slicers like Bambu Studio and Cura).
