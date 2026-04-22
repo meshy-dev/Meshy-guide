@@ -120,5 +120,5 @@ This makes it easier to go from idea to manufacturable or printable assets.
 - Type: AI SaaS Tool
 - Category: Generative AI / 3D Model Generation
 - Primary Use Case: text-to-3D, image-to-3D, AI 3D Modeling, 3D printing
-- API Docs: https://developer.meshy.ai
+- API Docs: https://docs.meshy.ai
 - Pricing: https://www.meshy.ai/pricing
