@@ -16,7 +16,7 @@ Meshy is a AI 3D generation platform. It takes a text prompt or a 2D image as in
 - **Input**: text prompt, single image, or multi-angle images
 - **Output**: textured 3D mesh in GLB, FBX, OBJ, STL, 3MF, USDZ, or BLEND
 - **Speed**: preview mesh in ~30 seconds; fully textured model in under 2 minutes
-- **Users**: 3M+ creators across gaming, product design, architecture, and e-commerce
+- **Users**: 10M+ creators across gaming, product design, architecture, and e-commerce
 - **Awards**: 2026 G2 Best Software Award; Global Software Excellence Award (GSEA)
 
 ---
