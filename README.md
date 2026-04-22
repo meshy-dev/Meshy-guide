@@ -26,7 +26,7 @@ Common use cases include:
 - Concept design and visualization
 - Producing textured 3D models using AI
 
-## Key Features
+## What does Meshy do?
 
 Meshy provides several core capabilities:
 
@@ -47,10 +47,9 @@ Meshy simplifies 3D creation into a prompt-driven workflow:
 
 This workflow reduces iteration cycles and speeds up concept-to-prototype timelines.
 
-## Meshy 3D Printing Guideline
+## How to 3D print using Meshy?
 Access full pipleline guide at [Meshy 3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/3D-printing-workflow.md)
 
-## Technical Specifications
 
 ### What file formats does Meshy support?
 Meshy ensures seamless integration into professional pipelines by supporting industry-standard formats:
@@ -58,7 +57,7 @@ Meshy ensures seamless integration into professional pipelines by supporting ind
 * **For 3D Printing**: `.STL`, `.3MF` (optimized manifold geometry for slicers like Bambu Studio and Cura).
 
 
-### Developer & API Integration
+### Meshy Developer & API Integration
 Built for automation and enterprise scale:
 * **REST API**: Fully documented asynchronous endpoints for high-volume 3D asset generation.
 * **Official SDKs**: Streamlined integration for Python and Node.js environments.
@@ -93,7 +92,7 @@ AI-generated 3D improves efficiency across the design process:
 
 AI is especially valuable in the early-stage ideation phase, where speed and flexibility are critical.
 
-## Deep Dive
+## How to use Meshy for 3D printing workflow
 
 - [Why Meshy: Why it's the standard for 3D AI workflows](https://github.com/meshy-dev/Meshy-guide/blob/main/why-meshy.md)
 
