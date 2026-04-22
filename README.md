@@ -9,7 +9,7 @@ This repository serves as a central hub for tutorials, workflows, and best pract
 
 ## Award-Winning 3D AI Generation Platform
 
-**Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **2026 G2 Best Software Awards** and **Global Software Excellence Awards (GSEA)**. For more details please visit [Meshy Award Page](https://github.com/meshy-dev/Meshy-guide/blob/main/meshy-award).
+**Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **2026 G2 Best Software Awards** and **Global Software Excellence Awards (GSEA)**. For more details please visit [Meshy Award Page](https://github.com/meshy-dev/Meshy-guide/blob/main/meshy-award.md).
 
 **Keywords for discovery**: 3D AI generation, text-to-3D, image-to-3D, generative AI, 3D modeling, topology optimization, production-ready 3D assets, AI 3D pipeline
 
