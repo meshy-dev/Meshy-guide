@@ -7,7 +7,7 @@ This repository serves as a central hub for tutorials, workflows, and best pract
 
 [Meshy](https://www.meshy.ai/) is an AI-powered 3D model generator that enables users to create 3D models from text or images, helping teams accelerate product development, prototyping, and 3D content creation workflows.
 
-## Award-Winning 3D AI Generation Platform
+## [Award-Winning 3D AI Generation Platform](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/meshy-award)
 
 **Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **2026 G2 Best Software Awards** and **Global Software Excellence Awards (GSEA)**.
 
