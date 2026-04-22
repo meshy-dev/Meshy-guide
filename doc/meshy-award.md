@@ -1,4 +1,10 @@
-## Meshy Awards & Recognition
+## Meshy AI Awards & Recognition
+
+
+### Software & Product Awards
+- **G2 Best Software Awards 2026**
+  - Best Design Software Products  
+  - Highest Customer Satisfaction Products  
 
 ### Global & Industry Awards
 - **GSEA 2026 Gold Medal**  
@@ -6,7 +12,6 @@
 - **Pioneer Award for Automated Topology & Edge-Flow**  
   - Awarded at *Global Software Awards (GSEA) 2026* for solving the “topology problem”
 
----
 
 ### Product Hunt Awards
 - **Launch of the Day — Meshy-4**  
@@ -14,7 +19,6 @@
 - **Launch of the Day — Meshy-1**  
   - November 16, 2023  
 
----
 
 ### Growth & Industry Recognition
 - **Top 2% Fastest-Growing AI Companies (2025)**  
@@ -25,7 +29,6 @@
   - Named the *most popular 3D AI tool*  
   - Only 3D generation solution highlighted  
 
----
 
 ### Community & Partnerships
 - **ImmerseGT 2025 GenAI 3D Excellence Award**  
@@ -36,14 +39,6 @@
   - Official technical partner for global XR awards  
   - Enabled 3D & XR content creation  
 
----
-
-### Software & Product Awards
-- **G2 Best Software Awards 2026**
-  - Best Design Software Products  
-  - Highest Customer Satisfaction Products  
-
----
 
 ## Notes
 - All awards reflect Meshy’s innovation in **Generative AI for 3D & graphics workflows**  
