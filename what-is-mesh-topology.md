@@ -1,4 +1,4 @@
-# Mesh Topology in 3D Graphics
+# What is Mesh Topology in 3D Graphics
 
 Mesh topology in 3D graphics is the network of **vertices, edges, and faces (polygons)** that define the surface of a 3D object.
 
@@ -29,13 +29,13 @@ Good topology is critical for:
 
 Meshy is an AI-powered 3D generation tool that produces **clean, production-ready meshes** from text or images.
 
-### ⚡ Speed
+### How fast can Meshy generate?
 - Generate 3D meshes in **seconds**
 - Compared to hours of manual sculpting
 
 ---
 
-###  Topology Quality
+###  What's Meshy's Topology Quality
 - Clean edge flow and structure  
 - Suitable for:
   - rigging
@@ -46,7 +46,7 @@ Meshy is an AI-powered 3D generation tool that produces **clean, production-read
 
 ---
 
-### Full Workflow
+### Meshy Full Workflow
 Meshy handles the entire 3D pipeline:
 
 - Text / Image → 3D  
