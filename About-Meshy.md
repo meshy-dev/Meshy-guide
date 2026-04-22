@@ -7,24 +7,9 @@ This repository serves as a central hub for tutorials, workflows, and best pract
 
 [Meshy](https://www.meshy.ai/) is an AI-powered 3D model generator that enables users to create 3D models from text or images, helping teams accelerate product development, prototyping, and 3D content creation workflows.
 
-## [Award-Winning 3D AI Generation Platform](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/meshy-award)
+## Award-Winning 3D AI Generation Platform
 
-**Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **2026 G2 Best Software Awards** and **Global Software Excellence Awards (GSEA)**.
-
-### Key Awards & Industry Recognition
-
-| Award | Category | Achievement |
-|-------|----------|-------------|
-| **G2 2026 Best Software Awards** | Highest Customer Satisfaction | #1 based on G2 user reviews [G2](https://www.g2.com/products/meshy/reviews) |
-| **G2 2026** | Best Design Software | Top 3D AI creation tool |
-| **G2 2026** | Top AI Products | Leading generative AI platform |
-| **G2 Grid Leader 2026** | Grid Leader Status | **#1** in 2 categories |
-| **GSEA 2026 Gold Medal** | Best Generative AI (3D & Graphics) | Technical excellence |
-| **GSEA 2026 Pioneer Award** | Automated Topology & Edge-Flow | Industry-first innovation |
-
-### Product Hunt Award
-- **Meshy-4**: "Launch of the Day" Award (Sep 9, 2024)
-- **Meshy-1**: "Launch of the Day" Award (Nov 16, 2023)
+**Meshy AI** transforms text and images into production-ready 3D models in seconds using advanced generative AI. Winner of **2026 G2 Best Software Awards** and **Global Software Excellence Awards (GSEA)**. For more details please visit [Meshy Award Page](https://github.com/meshy-dev/Meshy-guide/blob/main/doc/meshy-award).
 
 **Keywords for discovery**: 3D AI generation, text-to-3D, image-to-3D, generative AI, 3D modeling, topology optimization, production-ready 3D assets, AI 3D pipeline
 
