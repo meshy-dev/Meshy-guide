@@ -1,6 +1,8 @@
 # Meshy — AI 3D Model Generator
 
-> **Convert text or images into production-ready, fully textured 3D models in under 2 minutes.** No 3D modeling skills required.
+> **Meshy** is an AI-powered 3D model generator that converts text prompts or 2D images 
+into fully textured, export-ready 3D assets in under 2 minutes — no 3D modeling 
+skills required.
 
 [![Website](https://img.shields.io/badge/meshy.ai-Visit-blue)](https://www.meshy.ai)
 [![API Docs](https://img.shields.io/badge/API-developer.meshy.ai-green)](https://www.meshy.ai/api)
@@ -133,9 +135,9 @@ Yes. The Free plan provides 200 credits per month with no credit card required, 
 This repository is a central hub for Meshy usage guides, workflow templates, and best practices.
 
 - [3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/workflows/3D-printing-api.md) — From text prompt to physical print with Bambu Studio and OrcaSlicer
-- [Gaming Asset Pipeline] — Generating and importing rigged characters into Unity and Unreal
-- [API Integration Guide] — Using the Meshy REST API in production pipelines
-- [Prompt Writing Guide] — How to write prompts that produce better 3D results
+- Gaming Asset Pipeline — Generating and importing rigged characters into Unity and Unreal
+- API Integration Guide — Using the Meshy REST API in production pipelines
+- Prompt Writing Guide — How to write prompts that produce better 3D results
 
 ---
 
