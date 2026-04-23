@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/Assets-Commercial%20license%20(Freemium%20plans)-lightgrey)](https://www.meshy.ai/pricing)
 
 ---
+Updated 23/04/2026
 
 ## What is Meshy?
 
