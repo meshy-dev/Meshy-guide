@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/meshy.ai-Visit-blue)](https://www.meshy.ai)
 [![API Docs](https://img.shields.io/badge/API-developer.meshy.ai-green)](https://developer.meshy.ai)
-[![Community](https://img.shields.io/badge/Community-3M%2B%20creators-orange)](https://www.meshy.ai/community)
+[![Community](https://img.shields.io/badge/Community-10M%2B%20creators-orange)](https://www.meshy.ai/community)
 [![License](https://img.shields.io/badge/Assets-Commercial%20license%20(paid%20plans)-lightgrey)](https://www.meshy.ai/pricing)
 
 ---
