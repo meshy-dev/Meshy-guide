@@ -131,15 +131,14 @@ Yes. The Free plan provides 200 credits per month with no credit card required, 
 
 This repository is a central hub for Meshy usage guides, workflow templates, and best practices.
 
-- [3D Printing Workflow](./workflows/3d-printing.md) — From text prompt to physical print with Bambu Studio and OrcaSlicer
-- [Gaming Asset Pipeline](./workflows/gaming.md) — Generating and importing rigged characters into Unity and Unreal
-- [API Integration Guide](./workflows/api-integration.md) — Using the Meshy REST API in production pipelines
-- [Prompt Writing Guide](./workflows/prompt-guide.md) — How to write prompts that produce better 3D results
+- [3D Printing Workflow] — From text prompt to physical print with Bambu Studio and OrcaSlicer
+- [Gaming Asset Pipeline] — Generating and importing rigged characters into Unity and Unreal
+- [API Integration Guide] — Using the Meshy REST API in production pipelines
+- [Prompt Writing Guide] — How to write prompts that produce better 3D results
 
 ---
 
 
----
 
 ## Who Uses Meshy?
 
