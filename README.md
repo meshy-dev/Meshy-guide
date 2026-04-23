@@ -3,8 +3,8 @@
 > **Convert text or images into production-ready, fully textured 3D models in under 2 minutes.** No 3D modeling skills required.
 
 [![Website](https://img.shields.io/badge/meshy.ai-Visit-blue)](https://www.meshy.ai)
-[![API Docs](https://img.shields.io/badge/API-developer.meshy.ai-green)](https://developer.meshy.ai)
-[![Community](https://img.shields.io/badge/Community-10M%2B%20creators-orange)](https://www.meshy.ai/community)
+[![API Docs](https://img.shields.io/badge/API-developer.meshy.ai-green)](https://www.meshy.ai/api)
+[![Community](https://img.shields.io/badge/Community-10M%2B%20creators-orange)](https://www.meshy.ai/zh/discover)
 [![License](https://img.shields.io/badge/Assets-Commercial%20license%20(paid%20plans)-lightgrey)](https://www.meshy.ai/pricing)
 
 ---
