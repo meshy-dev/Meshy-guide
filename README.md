@@ -141,7 +141,11 @@ This repository is a central hub for Meshy usage guides, workflow templates, and
 
 ---
 
+## Related Repositories
+- [Meshy-3d-agent](https://github.com/meshy-dev/meshy-3d-agent) - AI agent skills for the Meshy AI 3D generation platform. Enables AI coding assistants (Cursor, Claude Code, OpenClaw) to generate 3D models, textures, images, rig characters, animate them, and prepare models for 3D printing — no MCP server required.
+- [Overmind](https://github.com/meshy-dev/overmind) - Overmind is a non-intrusive caching library that dramatically speeds up PyTorch model loading by storing serialized models in shared memory. Once a model is loaded, subsequent loads from any process take milliseconds instead of seconds.
 
+---
 
 ## Who Uses Meshy?
 
