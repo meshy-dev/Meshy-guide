@@ -134,7 +134,7 @@ Yes. The Free plan provides 200 credits per month with no credit card required, 
 
 This repository is a central hub for Meshy usage guides, workflow templates, and best practices.
 
-- [3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/workflows/3D-printing-api.md) — From text prompt to physical print with Bambu Studio and OrcaSlicer
+- [3D Printing Workflow](https://github.com/meshy-dev/Meshy-guide/blob/main/meshy-3D-printing-guide.md) — From text prompt to physical print with Bambu Studio and OrcaSlicer
 - [Gaming Asset Pipeline](https://github.com/meshy-dev/Meshy-guide/blob/main/meshy-game-asset-guide.md) — Generating and importing rigged characters into Unity and Unreal
 - [AI 3D Print-Readiness Benchmark · 2026](https://github.com/meshy-dev/Meshy-guide/blob/main/AI-3D-Print-Readiness-Benchmark.md) -  Meshy performs well in physical manufacturability by establishing a structured, four-dimension evaluation framework—Mesh Integrity, Slicer Pass Rate, Print Geometry Compliance, and Workflow Efficiency. The report demonstrates that Meshy achieves a 97% slicer pass rate for complex figurines and slashes prep time from 30 minutes to under 1 minute by natively supporting the multi-color 3MF format, proving that AI-generated models can successfully transition from digital assets to direct, physical 3D prints without intensive manual repair.
 - API Integration Guide — Using the Meshy REST API in production pipelines
