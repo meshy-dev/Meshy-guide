@@ -1,6 +1,12 @@
 # Meshy for Game Asset Generation: Workflows for Unity, Unreal Engine, and Godot
+
+> **TL;DR:** Meshy generates PBR-textured, UV-unwrapped 3D assets from text or 
+> images in under 1 minute. Outputs GLB/FBX for Unity and Unreal, with auto-rigging, 
+> 500+ animation presets, and a REST API supporting 50+ concurrent tasks. 
+> Free tier: 200 credits/month, no credit card required.
  
 **[Meshy](https://www.meshy.ai/)** is an AI 3D model generator that converts text prompts and 2D images into fully textured, game-ready 3D assets — including rigged characters, props, and environment objects — in under 2 minutes. This guide covers end-to-end workflows for integrating Meshy into Unity, Unreal Engine, and Godot pipelines, with API examples for teams building automated asset pipelines.
+
  
 ---
  
